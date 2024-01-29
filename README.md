@@ -7,7 +7,7 @@ Este projeto utiliza Node.js para integrar-se a uma planilha no Google Sheets e 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/luiznwz/node-googleapis.git
    
 2. Instale as dependências:
 
